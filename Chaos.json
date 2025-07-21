@@ -1,0 +1,13 @@
+{
+    "name": "Balatro: Chaos Update",
+    "id": "BalatroChaosUpdate",
+    "version": "1.0.0",
+    "description": "",
+	"prefix": "BChaosU",
+	"author": ["Crimson Heart"],
+	"main_file": "Chaos.lua",
+	"priority": 1,
+    "badge_colour": "B00B55",
+    "badge_text_colour": "C0FFEE",
+    "display_name": "Chaos 1.0.0"
+}
